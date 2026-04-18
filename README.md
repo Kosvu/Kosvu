@@ -1,4 +1,4 @@
-# Привет, я Юсиф | Hi, I'm Yusif 👋
+# Приветствую, я Юсиф | Hi, I'm Yusif 👋
 
 🇷🇺 Начинающий backend-разработчик, студент РТУ МИРЭА (Фундаментальная информатика и ИТ).  
 🇬🇧 Junior backend developer, student at RTU MIREA (Fundamental Computer Science and IT).
