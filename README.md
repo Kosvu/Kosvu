@@ -19,13 +19,13 @@
 ## 📌 О себе | About me
 
 🇷🇺
-- 🎓 Студент 2-го курса РТУ МИРЭА
+- 🎓 Студент 3-го курса РТУ МИРЭА
 - 💼 Имею опыт стажировки в IT-компании (backend на Go)
 - 📖 Изучаю алгоритмы и структуры данных
 - 🚀 Открыт к стажировкам и junior-позициям
 
 🇬🇧
-- 🎓 2nd year student at RTU MIREA
+- 🎓 3rd year student at RTU MIREA
 - 💼 Internship experience at an IT company (backend in Go)
 - 📖 Studying algorithms and data structures
 - 🚀 Open to internships and junior positions
